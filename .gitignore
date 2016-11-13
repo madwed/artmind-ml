@@ -9,3 +9,9 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+# python
+__pycache__
+
+# OSX
+.DS_STORE
