@@ -12,6 +12,8 @@ pip-selfcheck.json
 
 # python
 __pycache__
+.ipynb_checkpoints/
+share/
 
 # OSX
 .DS_STORE
