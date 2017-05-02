@@ -1,4 +1,4 @@
-from data_and_analysis.db import create_cursor
+from analysis.db import create_cursor
 import numpy as np
 
 def load():

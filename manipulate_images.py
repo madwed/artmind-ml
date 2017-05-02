@@ -1,4 +1,4 @@
-from data_and_analysis.db import create_cursor
+from analysis.db import create_cursor
 from math import ceil, floor
 import pandas as pd
 import numpy as np
