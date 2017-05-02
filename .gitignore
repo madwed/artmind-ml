@@ -17,3 +17,6 @@ share/
 
 # OSX
 .DS_STORE
+
+# csv
+*.csv
